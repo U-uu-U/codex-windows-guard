@@ -1,0 +1,22 @@
+# Local logs and validation output
+logs/
+tmp/
+*.log
+*.csv
+*.etl
+
+# PowerShell/editor noise
+*.ps1xml
+*.pssc
+*.psrc
+.vscode/
+.idea/
+
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Generated packages
+*.zip
+*.nupkg
